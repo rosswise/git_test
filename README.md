@@ -1,1 +1,1 @@
-# git_test
+This is rosswise's first git project!
